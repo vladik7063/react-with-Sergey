@@ -1,0 +1,65 @@
+{
+	"favourites":[
+		{
+			"name" : "Google",
+			"link" : "https://google.com",
+			"src" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png"
+		},
+		{
+			"name" : "Twitter",
+			"link" : "https://twitter.com",
+			"src" : "https://upload.wikimedia.org/wikipedia/ru/thumb/9/9f/Twitter_bird_logo_2012.svg/2522px-Twitter_bird_logo_2012.svg.png"
+		},
+		{
+			"name" : "VK",
+			"link" : "https://vk.com",
+			"src" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vk_Logo.svg/2048px-Vk_Logo.svg.png"
+		},
+		{
+			"name" : "Instagram",
+			"link" : "https://instagram.com",
+			"src" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
+		},
+		{
+			"name" : "GitHub",
+			"link" : "https://github.com",
+			"src" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/1050px-GitHub_Mark.png"
+		},
+		{
+			"name" : "Typescript",
+			"link" : "https://www.typescriptlang.org/",
+			"src" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
+		},
+		{
+			"name" : "YouTube",
+			"link" : "https://youtube.com",
+			"src" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1024px-YouTube_social_white_square_%282017%29.svg.png"
+		},
+		{
+			"name" : "Telegram",
+			"link" : "https://web.telegram.org",
+			"src" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png"
+		},
+		{
+			"name" : "Yandex zen",
+			"link" : "https://zen.yandex.ru/",
+			"src" : "https://upload.wikimedia.org/wikipedia/commons/a/ab/Yandex_Zen_logo_icon.svg?uselang=ru.png"
+		}
+	],
+	"reportCount" : [97],
+	"suggestions" : [
+		{
+			"label" : "Киберспорт захотели включить в программу Олимпиады",
+			"href" : "https://lenta.ru/news/2021/10/26/cybersport/",
+			"src" : "https://icdn.lenta.ru/images/2021/10/26/16/20211026165923749/pic_afce37115670b00b8fe79bb3b85de4c0.jpeg",
+			"link" : "https://lenta.ru/"
+		},
+		{
+			"label" : "В России предлагают ввести допинг-контроль на все отечественные киберспортивные турниры",
+			"href" : "https://russian.rt.com/sport/news/920219-kontrol-rossiya-doping",
+			"src" : "https://cdni.rt.com/russian/images/2021.10/article/61726c54ae5ac960a917eaad.png",
+			"link" : "https://russian.rt.com/"
+
+		}
+	] 
+}
