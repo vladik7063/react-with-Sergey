@@ -1,0 +1,29 @@
+
+.blok_content {
+    height: 80px;
+    width: 450px;
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.753);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 50px;
+    display: flex;
+}
+
+
+.news{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.news_link{
+    height: 45px;
+    overflow:hidden;
+}
+
+
+.news_img{
+    margin-right: 5px;
+    margin-top: 10px;
+}
