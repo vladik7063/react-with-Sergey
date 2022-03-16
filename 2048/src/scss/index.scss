@@ -1,0 +1,18 @@
+@import './reset.scss';
+// @import "normalize.css/normalize.css";
+// @import "./fonts.scss";
+// @import "./variables.scss";
+// @import "./mixins.scss";
+// @import "./grid/index.scss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+.rs-wide {
+  width: 100%;
+}
