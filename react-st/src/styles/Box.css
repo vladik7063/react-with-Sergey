@@ -1,0 +1,12 @@
+.box {
+    margin-top: 10px;
+}
+
+.content {
+    display: flex;
+    margin-top: -20px;
+}
+
+.area{
+    margin-top: 50px;
+}
