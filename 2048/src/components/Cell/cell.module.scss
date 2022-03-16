@@ -1,0 +1,73 @@
+.root {
+  margin: 20px 20px 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.7);
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: 700;
+  font-size: 30px;
+
+  &.visible {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  &.hidden {
+    color: rgba(255, 255, 255, 0);
+    background-color: #cdc1b4;
+  }
+
+  &.value2 {
+    background-color: #e7dad2;
+  }
+  &.value4 {
+    background-color: #ccbfaa;
+  }
+  &.value8 {
+    background-color: #fbb378;
+  }
+  &.value16 {
+    background-color: #ce7c4d;
+  }
+  &.value32 {
+    background-color: #ff865e;
+  }
+  &.value64 {
+    background-color: #ff693b;
+  }
+  &.value128 {
+    background-color: #dab766;
+  }
+  &.value256 {
+    background-color: #c7a44c;
+  }
+  &.value512 {
+    background-color: #c59e3f;
+  }
+  &.value1024 {
+    background-color: #f5bc2a;
+  }
+
+  &.value2,
+  &.value4,
+  &.value8 {
+    font-size: 60px;
+  }
+
+  &.value16,
+  &.value32,
+  &.value64 {
+    font-size: 50px;
+  }
+
+  &.value128,
+  &.value256,
+  &.value512 {
+    font-size: 40px;
+  }
+}
