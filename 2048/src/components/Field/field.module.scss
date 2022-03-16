@@ -1,0 +1,14 @@
+.root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #cdc1b4;
+
+  &__field {
+    display: flex;
+    background-color: #bbada0;
+    padding: 0 0 20px 20px;
+    border-radius: 20px;
+  }
+}
