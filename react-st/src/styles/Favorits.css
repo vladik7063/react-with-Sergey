@@ -1,0 +1,28 @@
+
+#root {
+    display:flex;
+    justify-content: center;
+}
+
+.Favorits {
+    width: 800px;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.753);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 40px;
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+}
+
+.icon_content{
+    width: 80px;
+    height: 80px;  
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -20px;
+}
